@@ -2,5 +2,14 @@ This is a sample text file.
 It contains various characters, such as letters (both uppercase and lowercase),
 numbers (12345), punctuation marks (!@#$%^&*()), and spaces.
 
-It also includes some special characters like © and ®, which have ASCII codes
-outside the range of the charFrequencyArray (500).
+It also includes some special characters like © and ®.
+
+The quick brown fox jumps over the lazy dog.
+The five boxing wizards jump quickly.
+
+1234567890!@#$%^&*()_-+=[]{}|;:'",.<>/?`~
+1234567890!@#$%^&*()_-+=[]{}|;:'",.<>/?`~
+1234567890!@#$%^&*()_-+=[]{}|;:'",.<>/?`~
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^
+_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿
