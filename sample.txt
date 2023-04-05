@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains various characters, such as letters (both uppercase and lowercase),
+numbers (12345), punctuation marks (!@#$%^&*()), and spaces.
+
+It also includes some special characters like © and ®, which have ASCII codes
+outside the range of the charFrequencyArray (500).
